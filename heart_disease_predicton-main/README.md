@@ -12,7 +12,7 @@ We have implemented a classification model using a combination of feature engine
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/anki-space/heart_disease_predicton
+    git clone https://github.com/Gowthami17-M/heart_disease_predicton-project.git
     ```
 
 2. Create and activate a virtual environment:
@@ -25,7 +25,7 @@ We have implemented a classification model using a combination of feature engine
 3. Install the required packages:
 
     ```bash
-    cd heart_diesease_predict
+    cd heart_diesease_predict_project
     pip install -r requirements.txt
     ```
 
