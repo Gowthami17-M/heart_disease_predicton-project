@@ -25,7 +25,7 @@ We have implemented a classification model using a combination of feature engine
 3. Install the required packages:
 
     ```bash
-    cd heart_diesease_predict_project
+    cd heart_diesease_predict_main
     pip install -r requirements.txt
     ```
 
